@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d12e642-47b7-42c7-b70a-8e457c991d4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/main/java/infrastructure/CalculatorImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Onion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Onion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/CalculatorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/CalculatorServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/infrastructure/CalculatorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/infrastructure/CalculatorImplTest.java" beforeDir="false" />
+    <list default="true" id="0d12e642-47b7-42c7-b70a-8e457c991d4a" name="Changes" comment="dfdsfsd ng">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OkrUaVkIc92dF7DVLekr3FO2Ay" />
   <component name="ProjectViewState">
@@ -32,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/48503/Downloads/Onion14/Onion_Architecture"
+    "last_opened_file_path": "C:/Users/48503/Documents/AEH 2022/Projektowanie wielowarstwowych aplikacji internetowych - mgr inż Kamil Kucharski/2. Onion-Architecture 2/Onion_Architecture"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
